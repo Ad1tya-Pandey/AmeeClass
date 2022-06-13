@@ -1,0 +1,10 @@
+.login{
+    transition: 1s;
+}
+.login:hover{
+      background-color: red;
+      border-color: transparent;
+}
+.tag:hover{
+    color:red
+}

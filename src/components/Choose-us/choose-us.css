@@ -1,0 +1,23 @@
+.choose__img img {
+  border-radius: 15px;
+}
+
+.choose__content {
+  padding-right: 50px;
+}
+
+.choose__content h2 {
+  font-weight: 600;
+}
+
+.choose__img {
+  position: relative;
+  top: 0;
+  left: 140px;
+  width: 50%;
+  height: 50%;
+  z-index: 777;
+}
+
+
+
