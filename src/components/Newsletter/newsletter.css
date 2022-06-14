@@ -1,0 +1,37 @@
+.newsletter {
+  background: #17bf9e;
+  padding: 40px;
+  border-radius: 15px;
+}
+
+.newsletter h2 {
+  color: #fff;
+}
+.subscribe input {
+  border: none;
+  outline: none;
+  
+}
+
+.subscribe {
+  background: #fff;
+  width: 45%;
+  margin: auto;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.btnn{
+  width: 30%;
+  padding: 10px;
+  background-color: white;
+  border-radius: 20px;
+  font-size: 1.8rem;
+  
+}
+.btnn:hover{
+  
+  background-color: red;
+  border-color: 1px solid black;
+}
